@@ -109,3 +109,5 @@ Columnar Transposition Technique
 ![alt text](image-1.png)
 
 # RESULT
+
+Thus, the C programs to implement the Rail Fence transposition technique (row transformation) and Columnar Transposition technique were implemented and executed successfully.
